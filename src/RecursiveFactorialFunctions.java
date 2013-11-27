@@ -1,8 +1,3 @@
-//FirstName LastName
-//Computer Science 10
-//2012-2013 Semester 2
-//Centennial High School
-
 public class RecursiveFactorialFunctions {
 
 	public static void main(String[] args) 
