@@ -1,6 +1,6 @@
 public class RecursiveFactorialFunctions {
 
-	//11 Feb 2014 2006h
+	//19 Feb 2014 2200h
 
 	public static void main(String[] args) 
 	{
