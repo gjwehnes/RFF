@@ -1,7 +1,8 @@
 public class RecursiveFactorialFunctions {
 
 	//9 April 2014
-	//for branch1 1020h
+	//everything is merged!
+
 
 	public static void main(String[] args) 
 	{
