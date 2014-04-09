@@ -1,7 +1,7 @@
 public class RecursiveFactorialFunctions {
 
 	//9 April 2014
-	//everything is merged!
+	//keep calm and code on!!!
 
 
 	public static void main(String[] args) 
