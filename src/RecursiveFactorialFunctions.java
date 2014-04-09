@@ -1,7 +1,7 @@
 public class RecursiveFactorialFunctions {
 
 	//9 April 2014
-	//for branch1b (1033h)
+	//for branch1bc (1043h)
 
 	public static void main(String[] args) 
 	{
