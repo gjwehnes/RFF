@@ -1,7 +1,7 @@
 public class RecursiveFactorialFunctions {
 
-	//9 April 2014
-	//keep calm and code on!!!
+	//04 Aug 2015
+	//keep calm and soldier on!!!
 
 
 	public static void main(String[] args) 
